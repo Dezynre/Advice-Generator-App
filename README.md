@@ -52,5 +52,5 @@ The screenshot of my solution
 ## Author
 
 - Website - [Chacha Ian (Github)](https://github.com/Dezynre)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Dezynre)
-- Twitter - [@yourusername](https://www.twitter.com/ExpertChurcher)
+- Frontend Mentor - [Chacha Ian](https://www.frontendmentor.io/profile/Dezynre)
+- Twitter - [Chacha Ian](https://www.twitter.com/ExpertChurcher)
